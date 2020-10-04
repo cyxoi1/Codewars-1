@@ -4,4 +4,4 @@ function inviteMoreWomen(L) {
         sum = sum + L[i];
     }
     return sum>0;
-}//https://www.codewars.com/users/star-algol/completed_solutions
+}//https://www.codewars.com/kata/58acfe4ae0201e1708000075
