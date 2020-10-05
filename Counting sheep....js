@@ -4,5 +4,5 @@ function countSheeps(arrayOfSheep) {
         if (arrayOfSheep[i]===true){
             count++;
         }
-    }  return count;// TODO May the force be with you
+    }  return count;
 } //https://www.codewars.com/kata/54edbc7200b811e956000556
